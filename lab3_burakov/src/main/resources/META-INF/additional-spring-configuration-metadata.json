@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "casdoor.login-endpoint",
+      "type": "java.lang.String",
+      "description": "The URL endpoint used for logging into Casdoor."
+    },
+    {
+      "name": "casdoor.token-endpoint",
+      "type": "java.lang.String",
+      "description": "The URL endpoint used for retrieving tokens from Casdoor."
+    },
+    {
+      "name": "casdoor.connect-endpoint",
+      "type": "java.lang.String",
+      "description": "The base URL endpoint for connecting to Casdoor authentication services."
+    },
+    {
+      "name": "casdoor.connect-client-id",
+      "type": "java.lang.String",
+      "description": "The client ID used for connecting to Casdoor authentication services."
+    },
+    {
+      "name": "casdoor.connect-client-secret",
+      "type": "java.lang.String",
+      "description": "The client secret associated with the client ID for Casdoor authentication."
+    }
+  ]
+}
